@@ -3,7 +3,7 @@
 -- Module Name: project - Behavioral
 -- Project Name: Ultrasonic Radar Implementation on FPGA
 -- Target Devices: Arty Z7
--- Additional Comments: ** Component Name is ULTRASONIC_DRIVER **
+-- Additional Comments: ** Component name is "ULTRASONIC_DRIVER" for the TOP MODULE  **
 -----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.std_logic_1164.all;
