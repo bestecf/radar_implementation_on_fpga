@@ -2,7 +2,6 @@
 set_property -dict { PACKAGE_PIN H16    IOSTANDARD LVCMOS33 } [get_ports { pin_sysclk }]; #IO_L13P_T2_MRCC_35 Sch=SYSCLK
 create_clock -add -name sys_clk_pin -period 8.00 -waveform {0 4} [get_ports { pin_sysclk }];#set
 
-
 ##Pmod Header JA
 #set_property -dict { PACKAGE_PIN Y18   IOSTANDARD LVCMOS33 } [get_ports { ja_p[1] }]; #IO_L17P_T2_34 Sch=JA1_P
 set_property -dict { PACKAGE_PIN Y19   IOSTANDARD LVCMOS33 } [get_ports { pin_vga_red1 }]; #IO_L17N_T2_34 Sch=JA1_N
