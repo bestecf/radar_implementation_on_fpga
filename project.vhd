@@ -6,7 +6,7 @@
 -- Project Name: Ultrasonic Radar Implementation
 -- Target Devices: Arty Z7 FPGA Board
 -- Additional Comments: ** You can copy this source code to Vivado as a TOP MODULE ** 
-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 
 library IEEE;
 use IEEE.std_logic_1164.all;
