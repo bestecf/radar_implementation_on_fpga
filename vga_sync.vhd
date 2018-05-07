@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------
--- Create Date: 06.05.2018 19:31:14
+-- Create Date: 06.05.2018
 -- Module Name: project - Behavioral
 -- Project Name: Ultrasonic Radar Implementation on FPGA
 -- Target Devices: Arty Z7
