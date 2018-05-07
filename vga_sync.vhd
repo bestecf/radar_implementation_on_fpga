@@ -3,7 +3,7 @@
 -- Module Name: project - Behavioral
 -- Project Name: Ultrasonic Radar Implementation on FPGA
 -- Target Devices: Arty Z7
--- Additional Comments: ** Component Name is VGA_DRIVER **
+-- Additional Comments: ** Component name is "VGA_DRIVER" for the TOP MODULE **
 -----------------------------------------------------------------------------------
 
 library IEEE;
