@@ -3,7 +3,7 @@
 -- Module Name: project - Behavioral
 -- Project Name: Ultrasonic Radar Implementation
 -- Target Devices: Arty Z7 FPGA Board
--- Additional Comments: ** Component Name is RADAR_DRIVER for the TOP MODULE ** 
+-- Additional Comments: ** Component Name is "RADAR_DRIVER" for the TOP MODULE ** 
 -- Radar Screen Size: 640x480
 ----------------------------------------------------------------------------------
 
